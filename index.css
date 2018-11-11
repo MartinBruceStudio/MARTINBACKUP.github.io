@@ -2,7 +2,7 @@
 /* CSS Document */
 
 body {
-	font-family: helvetica;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-size: 9pt;
 	line-height: 18px;
 	color: #000;
@@ -14,7 +14,7 @@ b, i {
 }
 
 .nav {
-	font-family: helvetica;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-weight: regular;
 	font-size: 20pt;
 	letter-spacing: 1pt;
@@ -49,7 +49,7 @@ b, i {
 }
 
 .nav2 {
-	font-family: helvetica;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-weight: regular;
 	font-size: 13pt;
 	letter-spacing: 1pt;
