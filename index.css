@@ -1,6 +1,17 @@
 @charset "UTF-8";
 /* CSS Document */
-
+@font-face {
+  font-family: 'Cambria';
+  src: url('Cambria.ttf')  format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'Cambria';
+    src: url('CambriaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 body {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-size: 9pt;
