@@ -32,8 +32,8 @@ b, i {
 	text-transform: uppercase;
 	text-decoration: none;
 	position: fixed;
-	padding-top: 30px;
-	padding-left: 30px;
+	padding-top: 5px;
+	padding-left: 5px;
 	left: -5px;
 	top: -5px;
 	height: 100%;
@@ -49,6 +49,7 @@ b, i {
 	padding-bottom: 3px;
 	display: inline;
 	line-height: 40px;
+	border: 1px solid #000;
 }
 
 .nav a:hover {
