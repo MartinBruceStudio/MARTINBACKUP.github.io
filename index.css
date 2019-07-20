@@ -27,7 +27,7 @@ b, i {
 .nav {
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	font-weight: regular;
-	font-size: 20pt;
+	font-size: 16pt;
 	letter-spacing: 1pt;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -48,12 +48,12 @@ b, i {
 	padding-top: 3px;
 	padding-bottom: 3px;
 	display: inline;
-	line-height: 40px;
+	line-height: 35px;
 	border: 1px solid #000;
 }
 
 .nav a:hover {
-	color: #43948d;
+	color: #0000ff;
 }
 
 .line a:link, .line a:visited {
@@ -72,8 +72,8 @@ b, i {
 
 #links {
 	position: fixed;
-	top: 310px;
-	left: 100px;
+	top: 246px;
+	left: 78px;
 	background-color: white;
 	border: 1px solid #000;
 	width: 255px;
@@ -86,7 +86,7 @@ b, i {
 }
 
 #links a:hover {
-	color: #43948d;
+	color: #0000ff;
 }
 
 #contact {
