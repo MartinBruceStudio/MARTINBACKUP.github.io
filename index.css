@@ -60,9 +60,8 @@ b, i {
 }
 
 .nav2 {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	font-weight: regular;
-	font-size: 13pt;
+	font-family: arial;
+	font-size: 12pt;
 	letter-spacing: 1pt;
 	text-transform: none;
 	text-decoration: none;
@@ -70,14 +69,15 @@ b, i {
 }
 
 #links {
+	font-family: arial;
+	font-size: 13pt;
 	position: fixed;
 	top: 281px;
 	left: 78px;
 	background-color: white;
 	border: 1px solid #000;
-	width: 255px;
+	width: 220px;
 	height: 126px;
-	font-size: 15pt;
 	line-height: 30px;
 	padding-left: 10px;
 	padding-top: 7px;
