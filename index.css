@@ -25,9 +25,8 @@ b, i {
 }
 
 .nav {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
-	font-weight: regular;
-	font-size: 16pt;
+	font-family: arial;
+	font-size: 15pt;
 	letter-spacing: 1pt;
 	text-transform: uppercase;
 	text-decoration: none;
