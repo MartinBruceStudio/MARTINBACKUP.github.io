@@ -1,16 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 @font-face {
-  font-family: 'Cambria';
-  src: url('Cambria.ttf')  format('truetype');
+  font-family: 'Calibri';
+  src: url('Calibri.ttf')  format('truetype');
   font-weight: normal;
   font-style: normal;
-}
-@font-face {
-    font-family: 'Cambria';
-    src: url('CambriaBold.ttf') format('truetype');
-    font-weight: bold;
-    font-style: normal;
 }
 body {
 	font-family: Calibri;
@@ -25,7 +19,7 @@ b, i {
 }
 
 .nav {
-	font-family: calibri;
+	font-family: Calibri;
 	font-size: 16pt;
 	letter-spacing: 1pt;
 	text-transform: uppercase;
@@ -60,7 +54,7 @@ b, i {
 }
 
 .nav2 {
-	font-family: calibri;
+	font-family: Calibri;
 	font-size: 13pt;
 	letter-spacing: 1pt;
 	text-transform: none;
@@ -69,7 +63,7 @@ b, i {
 }
 
 #links {
-	font-family: calibri;
+	font-family: Calibri;
 	font-size: 14pt;
 	position: fixed;
 	top: 234px;
