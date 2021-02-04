@@ -25,13 +25,13 @@ b, i {
 }
 
 .nav {
-	font-family: arial;
-	font-size: 15pt;
+	font-family: calibri;
+	font-size: 16pt;
 	letter-spacing: 1pt;
 	text-transform: uppercase;
 	text-decoration: none;
 	position: fixed;
-	padding-top: 5px;
+	padding-top: 7px;
 	padding-left: 5px;
 	left: -5px;
 	top: -5px;
@@ -45,9 +45,9 @@ b, i {
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 3px;
-	padding-bottom: 3px;
+	padding-bottom: 1px;
 	display: inline;
-	line-height: 35px;
+	line-height: 26px;
 	border: 1px solid #000;
 }
 
@@ -60,8 +60,8 @@ b, i {
 }
 
 .nav2 {
-	font-family: arial;
-	font-size: 12pt;
+	font-family: calibri;
+	font-size: 13pt;
 	letter-spacing: 1pt;
 	text-transform: none;
 	text-decoration: none;
@@ -69,14 +69,14 @@ b, i {
 }
 
 #links {
-	font-family: arial;
-	font-size: 13pt;
+	font-family: calibri;
+	font-size: 14pt;
 	position: fixed;
-	top: 281px;
+	top: 234px;
 	left: 78px;
 	background-color: white;
 	border: 1px solid #000;
-	width: 220px;
+	width: 212px;
 	height: 126px;
 	line-height: 30px;
 	padding-left: 10px;
